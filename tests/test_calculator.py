@@ -1,3 +1,9 @@
+"""
+test_calculator.py
+
+Tests basic arithmetic operations.
+
+"""
 from linuxforhealth.packaging.calculator import add, subtract
 import pytest
 
